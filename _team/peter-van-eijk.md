@@ -1,9 +1,9 @@
 ---
-title: 'Peter Van Eijk'
+title: 'Mirshad Makeen'
 image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
-email: 'peter@test.com'
-linkedinurl: 'https://www.linkedin.com/'
+jobtitle: 'Technical Director'
+email: 'info@techlanka.lk'
+linkedinurl: 'https://www.linkedin.com/mirshadmakeen'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
