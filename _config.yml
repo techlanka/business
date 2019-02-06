@@ -1,7 +1,7 @@
 baseurl: '/business/'
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'techlanka.lk'
 
 collections:
   services:
