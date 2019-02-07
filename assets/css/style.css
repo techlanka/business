@@ -2462,7 +2462,7 @@ ul.social li a span { font-size: 24px; }
 .feature .feature-content p strong { color: #414156; text-transform: uppercase; font-size: 0.8rem; font-weight: 700; }
 .feature .feature-content p em { color: #930123; font-style: normal; }
 
-.page-home { background-image: url("../images/back.png"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-home { background-image: url("../images/home.png"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-home { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-home { background-size: 70%; background-position: 100% -50px; } }
 @media (min-width: 992px) { .page-home { background-size: 60%; background-position: 100% -70px; } }
@@ -2515,7 +2515,7 @@ ul.social li a span { font-size: 24px; }
 @media (min-width: 768px) { .page-testimonials-list { background-size: 85%; background-position: 199px -80px; } }
 @media (min-width: 992px) { .page-testimonials-list { background-size: 60%; background-position: 100% -110px; } }
 
-.page-services-list { background-image: url("../images/undraw_businesswoman_pc12.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-services-list { background-image: url("../images/services.png"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-services-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-services-list { background-size: 85%; background-position: 199px -80px; } }
 @media (min-width: 992px) { .page-services-list { background-size: 60%; background-position: 100% -110px; } }
