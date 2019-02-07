@@ -2305,7 +2305,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 .page { display: flex; min-height: 100vh; flex-direction: column; }
 .page .wrapper { flex: 1; }
 
-.header { height: 50px; color: #930123; background-color: #ffffff; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2); }
+.header { height: 50px; color: #930123; background-color: #ffffff; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 15px rgba(50, 50, 93, 0.2); }
 .header .container { display: flex; justify-content: space-between; align-items: center; }
 .header .header-social { height: inherit; display: none; }
 @media (min-width: 992px) { .header .header-social { display: block; } }
