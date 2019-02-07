@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "New clients recieve a pre-sales/service consultancy and solution design.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Technicians",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Professionals",
+    "description": "All members of our team are certified IT Professionals.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Technical Support",
+    "description": "We stay up to date on the technology to provide you the best. 24/7 Support.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
