@@ -2314,7 +2314,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .footer { display: flex auto; justify-content: space-between; flex-direction: row; align-items: center; }
 @media (min-width: 576px) { .footer { justify-content: space-between; flex-direction: row; align-items: center; } }
-.footer .footer-title { color: #ffffff; font-size: 0.9rem; font-family: "Lora", "Helvetica Neue", Arial, sans-serif, -apple-system; margin-bottom: 10px; flex: 0; }
+.footer .footer-title { color: #d1d1d1; font-size: 0.9rem; font-family: "Lora", "Helvetica Neue", Arial, sans-serif, -apple-system; margin-bottom: 10px; flex: 0; }
 @media (min-width: 576px) { .footer .footer-title { margin: 0; } }
 .footer ul { list-style: none; margin: 0; padding: 0; flex: 1; }
 .footer ul li { display: block; margin-right: 10px; font-size: 0.8rem; color: #ffffff; }
