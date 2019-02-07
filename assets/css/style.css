@@ -2312,7 +2312,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .footer-strip { background: #414156; padding-top: 20px; padding-bottom: 20px; }
 
-.footer { display: flex; justify-content: space-between; flex-direction: row; align-items: center; }
+.footer { display: flex auto; justify-content: space-between; flex-direction: row; align-items: center; }
 @media (min-width: 576px) { .footer { justify-content: space-between; flex-direction: row; align-items: center; } }
 .footer .footer-title { color: #ffffff; font-size: 0.9rem; font-family: "Lora", "Helvetica Neue", Arial, sans-serif, -apple-system; margin-bottom: 10px; flex: 0; }
 @media (min-width: 576px) { .footer .footer-title { margin: 0; } }
