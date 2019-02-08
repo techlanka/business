@@ -16,15 +16,15 @@ Get your Professional Business Grade Email to see how we can your business grow!
 
 ##### We offer best email hosting
 
-## WITHOUT SPAM
+### WITHOUT SPAM
 
 Spam won't even make it into your mailboxes! And if one sneaks through, you have full control to custom filter inbound & outbound mail.
 
-## RAPIDLY GROWTH
+### RAPIDLY GROWTH
 
 Growth is a great thing! You can rest at ease knowing that if your business goes from 5 employees to 500 employees, we'll scale right along with you - increase and decrease without interruption of service.
 
-## NO HIDDEN COSTS
+### NO HIDDEN COSTS
 
 Hosting is the host you can depend on with ultra-reliable servers!
 24/7 support guaranty.
