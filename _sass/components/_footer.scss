@@ -4,17 +4,17 @@
   padding-bottom: 20px;
 }
 .footer {
-  display: flex;
+  display: flex auto;
   justify-content: space-between;
-  flex-direction: column;
-  align-items: flex-start;
+  flex-direction: row;
+  align-items: center;
   @include media-breakpoint-up(sm) {
     justify-content: space-between;
     flex-direction: row;
     align-items: center;
   }
   .footer-title {
-    color: #ffffff;
+    color: #d1d1d1;
     font-size: 0.9rem;
     font-family: $font-family-heading;
     margin-bottom: 10px;

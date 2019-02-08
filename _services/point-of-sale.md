@@ -1,5 +1,5 @@
 ---
-title: 'Accounting'
+title: 'Point of Sale'
 image: '/services/noun_591323.png'
 ---
 
