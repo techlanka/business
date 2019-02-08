@@ -2515,7 +2515,7 @@ ul.social li a span { font-size: 24px; }
 @media (min-width: 768px) { .page-testimonials-list { background-size: 85%; background-position: 199px -80px; } }
 @media (min-width: 992px) { .page-testimonials-list { background-size: 60%; background-position: 100% -110px; } }
 
-.page-services-list { background-image: url("../images/services.png"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -10px; }
+.page-services-list { background-image: url("../images/services.png"); background-repeat: no-repeat; background-size: 115%; background-position: 75px -40px; }
 @media (min-width: 576px) { .page-services-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-services-list { background-size: 85%; background-position: 199px -80px; } }
 @media (min-width: 992px) { .page-services-list { background-size: 60%; background-position: 100% -110px; } }
