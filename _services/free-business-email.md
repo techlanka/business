@@ -1,6 +1,6 @@
 ---
-## subtitle: 'Free-Simple-Faster-Easy to use!'
-title: 'The best Email Solution for Business'
+title: 'Professional Email'
+## Free-Simple-Faster-Easy to use!
 image: '/services/default.png'
 ---
 
