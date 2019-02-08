@@ -2493,7 +2493,7 @@ ul.social li a span { font-size: 24px; }
 .team-summary .team-meta p { margin: 0; }
 .team-summary .team-content { flex: 1 0 100%; }
 
-.page-team-list { background-image: url("../images/team.png"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-team-list { background-image: url("../images/team.png"); background-repeat: no-repeat; background-size: 115%; background-position: 1px -40px; }
 @media (min-width: 576px) { .page-team-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-team-list { background-size: 85%; background-position: 199px -80px; } }
 @media (min-width: 992px) { .page-team-list { background-size: 60%; background-position: 100% -110px; } }
