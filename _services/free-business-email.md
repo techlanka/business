@@ -16,12 +16,12 @@ Get your Professional Business Graded Email to see how we can help your business
 
 ##### We offer best email hosting
 
-### SPAM Free
-Spam won't even make it into your mailboxes! And if one sneaks through, you have full control to custom filter inbound & outbound mail.
+### Spam Free Service
+Spam won't even make it into your mailboxes! And if one sneaks through, you have full control to custom filter inbound & outbound mail. Simply a anti-spam and anti-virus protection.
 
 ### Rapid Growth
-Growth is a great thing! You can rest at ease knowing that if your business goes from 5 employees to 500 employees, we'll scale right along with you - increase and decrease without interruption of service.
+Growth is a great thing! You can rest at ease knowing that if your business goes from 5 employees to 1000 employees, we'll scale right along with you - increase and decrease without interruption of service.
 
 ### No any hidden Cost
 Our Service will continue to be free for 12 months and there after a fee will be added for each Email.
-# 24/7 support guaranteed on certain conditions.
+##### 24/7 support guaranteed on certain conditions.
