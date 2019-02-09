@@ -25,3 +25,9 @@ Growth is a great thing! You can rest at ease knowing that if your business goes
 ### No any hidden Cost
 Our Service will continue to be free for 12 months and there after a fee will be added for each Email.
 ##### 24/7 support guaranteed on certain conditions.
+
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
