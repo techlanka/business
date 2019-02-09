@@ -8,8 +8,9 @@ image: '/services/default.png'
 
 > For small startups or organizations that simply need email for their domains we techlanka.lk has created a free complex solution which includes Email for your company/personal domain.
 
-####
+
 ***
+
 Starting 10GB mailbox each Free/12 Months*
 
 Get your Professional Business Graded Email to see how we can help your business grow!
