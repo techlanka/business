@@ -13,14 +13,14 @@ image: '/services/default.png'
 
 Starting 10GB mailbox each Free/12 Months*
 
+{% highlight markdown %}
 Get your Professional Business Graded Email to see how we can help your business grow!
 
 1. Secure POP/IMAP/Webmail
 2. Outlook Setup
 3. Custom Email Filter
 4. 24/7 Support (Conditions Apply)
-
-***
+{% endhighlight %}
 
 #### We offer best email hosting
 
