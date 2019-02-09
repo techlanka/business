@@ -3,7 +3,7 @@ title: 'Professional Email'
 image: '/services/default.png'
 ---
 
-#### Free-Simple-Faster-Easy to use
+###### Free-Simple-Faster-Easy to use
 
 ##### For small startups or organizations that simply need email for their domains we techlanka.lk has created a free complex solution which includes Email for your company/personal domain.
 
