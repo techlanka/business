@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Web Designing'
 image: '/services/default.png'
 ---
 
