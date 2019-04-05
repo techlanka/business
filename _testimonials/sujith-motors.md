@@ -1,9 +1,9 @@
 ---
-title: 'Mikes Auto Parts'
+title: 'Sujith Motors'
 image: ''
 businessurl: ''
-name: 'Tony Smith'
-business: 'Local Business Name'
+name: 'Lalith Neeroj'
+business: 'Sujith Motors'
 jobtitle: 'Owner'
 ---
 

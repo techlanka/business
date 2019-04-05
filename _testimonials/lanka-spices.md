@@ -1,9 +1,9 @@
 ---
-title: 'Thaistyle Asian'
+title: 'Lanka Spices'
 image: ''
 businessurl: ''
-name: 'Lai May'
-business: 'Local Business Name'
+name: 'Suresh Nataraj'
+business: 'Lanka Spices'
 jobtitle: 'Owner'
 ---
 
