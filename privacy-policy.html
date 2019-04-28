@@ -8,7 +8,7 @@ bodyClass: page-services-list
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>*Effective date: November 20, 2018*</h1>
+        <h2>*Effective date: November 20, 2018*</h2>
         <p>
           Techlanka Solutions ("us", "we", or "our") operates the techlanka.lk and gadgetlanka.com website and the Tech Tamil, LK Updates Android Applications.
 
@@ -102,3 +102,25 @@ We do not knowingly collect personally identifiable information from anyone unde
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and update the "Last Updated" at the bottom of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6">
+  <div class="row">
+    {% for service in site.services %}
+    <div class="col-12 col-md-4 mb-1">
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title">
+            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+          </h2>
+          {{ service.content | markdownify | strip_html | truncate: 100 }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
