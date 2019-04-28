@@ -1,11 +1,7 @@
 ---
-layout: page
-current: privacy-policy
 title: Privacy Policy
-navigation: true
-logo: 'assets/images/favicon.png'
-class: page-template
-subclass: 'post page'
+layout: default
+bodyClass: page-services-list
 ---
 
 *Effective date: November 20, 2018*
